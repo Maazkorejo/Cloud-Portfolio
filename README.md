@@ -7,7 +7,7 @@
 
 ## 🌐 Live Demo
 
-**[View Live Site →](cloud-portfolio-production-f02c.up.railway.app)**
+cloud-portfolio-production-f02c.up.railway.app
 
 ---
 
