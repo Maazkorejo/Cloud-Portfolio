@@ -4,6 +4,11 @@
 > A fully deployed personal portfolio platform built on a multi-cloud architecture — Flask backend, Neon PostgreSQL database, and Railway hosting — all at **$0 cost**.
 
 ---
+<img width="1600" height="760" alt="pj" src="https://github.com/user-attachments/assets/d00dc0a8-5b1e-4835-be24-0e2f176e2885" />
+
+
+
+
 
 ## 🌐 Live Demo
 
